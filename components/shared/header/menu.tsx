@@ -9,7 +9,7 @@ export default function Menu() {
           Hello, Signin
         </Link>
         <Link href="/cart" className="header-button">
-          <div>
+          <div className="flex gap-3">
             <ShoppingCartIcon className="w-8 h-8" />
             Cart
           </div>
