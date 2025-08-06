@@ -8,11 +8,11 @@ import { APP_NAME } from '@/lib/constants';
 
 export default function Footer() {
   return (
-    <footer className="bg-black text-white underline-link">
+    <footer className="bg-[#000060] text-white underline-link">
       <div className="w-full">
         <Button
           variant="ghost"
-          className="bg-gray-800 w-full rounded-none"
+          className="bg-[#1d1d60] w-full rounded-none"
           onClick={() => window.scrollTo({ top: 0, behavior: 'smooth' })}
         >
           <ChevronUp className="mr-2 w-4 h-4" />
@@ -29,7 +29,7 @@ export default function Footer() {
           <p>&copy;2025, {APP_NAME}, Inc or its affiliates</p>
         </div>
         <div className="mt-8 flex justify-center text-sm text-gray-400">
-          <p>111 Main Street, Houston, TX, ZIP 77011 | +1 (123) 456-7890</p>
+          <p>111 Main Street, Houston, TX 77011 | +1 (123) 456-7890</p>
         </div>
       </div>
     </footer>

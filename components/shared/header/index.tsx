@@ -10,7 +10,7 @@ import Menu from './menu';
 
 export default function Header() {
   return (
-    <header className="bg-black text-white">
+    <header className="bg-[#000060] text-white">
       <div className="px-2">
         <div className="flex items-center justify-between">
           <div className="flex items-center">
@@ -25,7 +25,6 @@ export default function Header() {
                 height={40}
               />
               {/* {APP_NAME} */}
-              ENile
             </Link>
           </div>
           <div className="hidden md:block flex-1 max-w-xl">
@@ -37,7 +36,7 @@ export default function Header() {
           <Search />
         </div>
       </div>
-      <div className="flex items-center px-3 mb-[1px] bg-gray-800">
+      <div className="flex items-center px-3 mb-[1px] bg-[#1d1d60]">
         <Button
           variant="ghost"
           className="header-button flex items-center gap-1 text-base [&_svg]:size-6"
