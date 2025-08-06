@@ -26,10 +26,10 @@ export default function Footer() {
           <Link href="/page/help">Help</Link>
         </div>
         <div className="flex justify-center text-sm">
-          <p>&copy;2025, {APP_NAME}, Inc or its affiliates</p>
+          <p>&copy;2025, {APP_NAME}, Inc. or its affiliates</p>
         </div>
         <div className="mt-8 flex justify-center text-sm text-gray-400">
-          <p>111 Main Street, Houston, TX 77011 | +1 (123) 456-7890</p>
+          <p>1001 Main Street, Houston, TX 77011 | +1 (123) 456-7890</p>
         </div>
       </div>
     </footer>
