@@ -24,7 +24,8 @@ export default function Header() {
                 width={40}
                 height={40}
               />
-              {APP_NAME}
+              {/* {APP_NAME} */}
+              ENile
             </Link>
           </div>
           <div className="hidden md:block flex-1 max-w-xl">
@@ -43,7 +44,7 @@ export default function Header() {
         >
           <MenuIcon /> All
         </Button>
-        <div className="flex items-center flex-wrap gap-3 overflow-hidden max-h-[42px]">
+        <div className="flex items-center  gap-3  max-h-[42px]">
           {data.headerMenus.map((menu) => (
             <Link
               href={menu.href}

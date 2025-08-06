@@ -2,9 +2,9 @@
 <!-- Created with Inkscape (http://www.inkscape.org/) -->
 
 <svg
-   width="793.70081"
-   height="1122.5197"
-   viewBox="0 0 210 296.99999"
+   width="40"
+   height="60"
+   viewBox="0 0 10.583333 15.875"
    version="1.1"
    id="svg1"
    inkscape:export-filename="..\blogo.svg"
@@ -26,9 +26,9 @@
      inkscape:pagecheckerboard="0"
      inkscape:deskcolor="#d1d1d1"
      inkscape:document-units="px"
-     inkscape:zoom="15.138434"
-     inkscape:cx="206.82456"
-     inkscape:cy="329.12916"
+     inkscape:zoom="16"
+     inkscape:cx="192.3125"
+     inkscape:cy="326.28125"
      inkscape:window-width="1920"
      inkscape:window-height="986"
      inkscape:window-x="-11"
@@ -62,27 +62,27 @@
     <rect
        style="fill:#030080;fill-opacity:1;stroke:#000000;stroke-width:0"
        id="rect1"
-       width="9.3317671"
-       height="5.4635444"
+       width="6.9722924"
+       height="4.3449788"
        x="48.415268"
        y="84.384613"
-       ry="0.49487421" />
+       ry="0.39355731" />
     <text
        xml:space="preserve"
-       style="font-size:3.15972px;font-family:'Bodoni MT';-inkscape-font-specification:'Bodoni MT, Normal';fill:#f9f9f9;fill-opacity:1;stroke:#000000;stroke-width:0"
-       x="62.39415"
-       y="72.062668"
+       style="font-size:3.13729px;font-family:'Bodoni MT';-inkscape-font-specification:'Bodoni MT, Normal';fill:#f9f9f9;fill-opacity:1;stroke:#000000;stroke-width:0"
+       x="65.530304"
+       y="66.219086"
        id="text1"
-       transform="scale(0.82544505,1.2114677)"><tspan
+       transform="scale(0.75713846,1.3207624)"><tspan
          sodipodi:role="line"
          id="tspan1"
          style="stroke-width:0"
-         x="62.39415"
-         y="72.062668">ENile</tspan></text>
+         x="65.530304"
+         y="66.219086">ENile</tspan></text>
     <path
        style="opacity:0.8;fill:#f9f9f9;fill-opacity:1;stroke:#000000;stroke-width:0"
-       d="m 48.914814,84.804175 c -0.644688,5.266076 -1.430591,5.441713 4.166338,5.043985 l 2.86583,-3e-6 h 1.112295 l 0.418939,-0.05418 0.26882,0.05418 c 1.347741,-0.585409 -4.3379,0.784839 -7.583982,-5.08106 z"
+       d="m 48.770534,84.415507 c 0.894622,3.560897 -1.587937,4.394026 2.628518,4.314085 l 0.502363,-10e-7 2.48195,2e-6 h 0.350824 0.356768 c 0.403281,-0.132548 0.306343,-0.01859 -0.973877,-0.677453 -3.482503,-1.792266 -4.669303,1.158598 -4.498342,-3.667526 z"
        id="path1"
-       sodipodi:nodetypes="cccccccc" />
+       sodipodi:nodetypes="ccccccscc" />
   </g>
 </svg>
